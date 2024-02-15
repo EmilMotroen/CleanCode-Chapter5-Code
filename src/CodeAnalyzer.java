@@ -1,4 +1,4 @@
-/** CodeAnalyzer.java */
+/* Listing 5.6 */
 
 import programFiles.JavaFileAnalysis;
 import programFiles.LineWidthHistogram;
@@ -38,6 +38,9 @@ public class CodeAnalyzer implements JavaFileAnalysis {
         List<File> files = new ArrayList<File>();
 
         findJavaFiles(parentDirectory, files);
+
+        System.out.println("\nFiles in src directory and subdirectories:");
+        files.forEach(System.out::println);
 
         return files;
 

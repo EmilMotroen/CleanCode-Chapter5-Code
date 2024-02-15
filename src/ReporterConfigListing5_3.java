@@ -1,4 +1,4 @@
-/** ReporterConfig.java listing 5.3 */
+/* Listing 5.3 */
 
 import programFiles.Property;
 

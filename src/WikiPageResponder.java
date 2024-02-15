@@ -1,4 +1,4 @@
-/** WikiPageResponder.java listing 5.5 */
+/* Listing 5.5 */
 
 import com.sun.net.httpserver.Request;
 import programFiles.*;

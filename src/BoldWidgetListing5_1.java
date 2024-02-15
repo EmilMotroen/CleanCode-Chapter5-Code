@@ -1,4 +1,4 @@
-/** BoldWidget listing 5.1 */
+/* listing 5.1 */
 
 //package fitnesse.wikitext.widgets;
 
