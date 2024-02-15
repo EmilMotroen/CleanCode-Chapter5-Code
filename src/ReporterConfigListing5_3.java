@@ -1,9 +1,10 @@
+/** ReporterConfig.java listing 5.3 */
+
 import programFiles.Property;
 
 import java.util.ArrayList;
 import java.util.List;
 
-/** ReporterConfig listing 5.3 */
 
 public class ReporterConfigListing5_3 {
 

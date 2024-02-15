@@ -1,3 +1,5 @@
+/** ReporterConfig.java listing 5.4 */
+
 import programFiles.Property;
 
 import java.util.ArrayList;

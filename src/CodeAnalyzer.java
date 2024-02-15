@@ -1,3 +1,5 @@
+/** CodeAnalyzer.java */
+
 import programFiles.JavaFileAnalysis;
 import programFiles.LineWidthHistogram;
 
